@@ -1,0 +1,3 @@
+export const ADD_REMINDER ='ADD_REMINDER';
+export const DELE_REMINDER ='DELE_REMINDER';
+export const CLEAR_REMINDER='CLEAR_REMINDER'
